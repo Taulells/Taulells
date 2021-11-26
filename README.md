@@ -1,6 +1,6 @@
  Taulells Organization 
 
- https://taulells.org/home
+ https://taulells.org
 
 ------- 
 
